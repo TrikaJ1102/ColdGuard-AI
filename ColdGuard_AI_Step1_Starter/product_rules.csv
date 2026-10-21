@@ -1,0 +1,4 @@
+product,safe_min_c,safe_max_c,max_cumulative_out_of_range_min,discard_if_above_c,discard_if_above_duration_min,discard_if_below_c,sensor_gap_escalation_min,borderline_percent,note
+Vaccine A,2,8,30,12,60,0,30,10,Illustrative student PoC rule only; not a real regulatory value.
+Insulin B,2,8,60,25,120,0,30,10,Illustrative student PoC rule only; not a real regulatory value.
+Biologic C,2,8,20,10,30,0,30,10,Illustrative student PoC rule only; not a real regulatory value.
